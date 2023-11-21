@@ -46,10 +46,7 @@
 
 <details>
 <summary>Spoiler</summary>
-- Genshin Impact Players (qwq)
-- Chinese / 16 y.o. / Girl?
-- zh-CN / en-US
-- Programmer / Developer / Coder / Engineer
+- Telegram: https://t.me/xiaohua1337
 </details>
 
 ## 💻 Working Environment
