@@ -46,11 +46,10 @@
 
 <details>
 <summary>Spoiler</summary>
-[![Twitter](https://img.shields.io/twitter/follow/littleflowerzhang?color=1ca0f1&label=%40littleflowerzhang&logo=twitter&logoColor=white&style=flat-square&labelColor=1ca0f1)](https://twitter.com/JamesDo72448424)
-[![BiliBili](https://img.shields.io/badge/-ZXH-00a1d6?style=flat-square&logo=bilibili&logoColor=fff)](https://space.bilibili.com/471300303?spm_id_from=333.1007.0.0)
-[![Youtube](https://img.shields.io/badge/-ZXH-ff0000?style=flat-square&logo=YouTube&logoColor=white&labelColor=ff0000)](https://www.youtube.com/channel/UCHM0dJnIPSyxl0BJzoeJCTQ)
-[![Telegram Channel](https://img.shields.io/badge/-t.me/xiaohua1337-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)](https://t.me/xiaohua1337)
-[![E-Mail](https://img.shields.io/badge/-zuwias7@gmail.com-168de2?style=flat-square&logo=mail.ru&logoColor=white&labelColor=168de2)]()
+- Genshin Impact Players (qwq)
+- Chinese / 16 y.o. / Girl?
+- zh-CN / en-US
+- Programmer / Developer / Coder / Engineer
 </details>
 
 ## 💻 Working Environment
